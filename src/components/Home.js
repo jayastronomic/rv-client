@@ -1,10 +1,13 @@
 import React from "react";
 
+import Banner from "./Banner";
+import Brands from "./Brands";
+
 const Home = () => {
   return (
     <div>
-      <div>Home</div>
-      <div className="inset-0 absolute bg-gray-600 bg-opacity-75"></div>
+      <Banner />
+      <Brands />
     </div>
   );
 };

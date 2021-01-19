@@ -5,8 +5,8 @@ import "../styles/Nav.css";
 
 const Nav = () => {
   return (
-    <nav className="flex border border-black justify-between bg-gray-900 top-0 nav">
-      <div className="flex pl-10">
+    <nav className="flex  justify-between bg-gray-900 top-0 nav">
+      <div className="pl-10">
         <Link>
           <img width={75} src={logo} />
         </Link>

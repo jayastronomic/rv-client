@@ -1,0 +1,10 @@
+.home {
+  background-image: url("../assets/ron.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 41rem;
+}
+
+.green {
+  color: #4b9332;
+}
